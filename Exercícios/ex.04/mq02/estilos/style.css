@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    text-shadow: 1px 1px 3px aliceblue;
+    padding: 10px;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
